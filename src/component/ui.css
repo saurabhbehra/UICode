@@ -1,0 +1,72 @@
+body{
+    background-color:  #272C34;
+}
+
+.box1{
+position: relative;
+width: 80px;
+height: 80px;
+left: 305px;
+top: 350px;
+background: #39404B;
+border-radius: 15px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.group8{
+    position: absolute;
+    width: 40px;
+    height: 40px;;
+}
+
+
+.cross{
+    width: 80px;
+    height: 80px;
+    background: linear-gradient(270deg, #01C5FF 0%, #3D44D9 100%);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.uiDiv{
+    width: 80px;
+    height: 80px;
+    background: #39404B;
+    border-radius: 15px 0px 0px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.react-flow__handle{
+    width: 14px;
+    height: 14px;
+    background: #3850DD;
+    border: 3px solid #01C5FF;
+    border-radius: 15px;
+}
+
+
+/* .react-flow__handle-left{
+    left:-20px;
+} */
+
+
+.react-flow__edge{
+    width: 174.5px;
+    height: 66.5px;
+    border-radius: 2px;
+    border: 3px solid #01C5FF;
+}
+
+/* .vector{
+    margin-left:-10px;
+    margin-top:300px ;
+} */
